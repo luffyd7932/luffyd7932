@@ -1,19 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://laxman-desai-portfolio.netlify.app)
 
-<table>
-  <tr>
-    <td>
-      <h1>Hi 👋, I'm Laxman Kishor Desai</h1>
-      <h3>Java Developer | Backend Developer</h3>
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="400">
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Laxman Kishor Desai</h1>
+<h3 align="center">Java Developer | Backend Developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luffyd7932" alt="luffyd7932" /></a> </p>
+
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="Coding GIF" />
+</p>
+
 
 - 🔭 I’m currently working on [BudgetByte](https://expo.dev/accounts/pratik07/projects/FNative/builds/cd70d277-52fd-4d2e-86ac-b5fa8bd1a6b7 )
 
