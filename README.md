@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgithub-cover&psig=AOvVaw32bRirRRfeICexzZSS9Hzx&ust=1744909750702000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOitzcGF3YwDFQAAAAAdAAAAABAE))](https://laxman-desai-portfolio.netlify.app)
+[![MasterHead](https://github.com/user-attachments/assets/d88f0e6b-a1b3-4d49-92c4-1ea8c86583c9)](https://laxman-desai-portfolio.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Laxman Kishor Desai</h1>
 <h3 align="center">Java Developer | Backend Developer</h3>
